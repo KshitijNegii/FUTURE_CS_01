@@ -33,8 +33,6 @@ The goal was to simulate real-world penetration testing and practice identifying
 
 
 
-
-
 \## 📸 Screenshots
 
 
@@ -43,19 +41,17 @@ Here are some screenshots from my work on \*\*Task 1 – Web Application Securit
 
 
 
-!\[Docker PS](screenshots/dockerps%20internship.png)
+!\[Docker PS](screenshots/dockerps\_internship.png)
 
-!\[Active Scan](screenshots/active%20scan%20internship.png)
+!\[Active Scan](screenshots/active\_scan\_internship.png)
 
-!\[Browse Juice Shop](screenshots/browse%20juice%20shop%20internship.png)
+!\[Browse Juice Shop](screenshots/browse\_juice\_shop\_internship.png)
 
-!\[Juice Shop Pull](screenshots/juice%20shop%20pull-internship.png)
+!\[Juice Shop Pull](screenshots/juice\_shop\_pull\_internship.png)
 
-!\[History Tab](screenshots/history%20tab%20internship%20.png)
+!\[History Tab](screenshots/history\_tab\_internship.png)
 
-!\[Sites View](screenshots/sites%20internship.png)
+!\[Sites View](screenshots/sites\_internship.png)
 
-!\[Spider Scan](screenshots/spider%20scan%20internship.png)
-
-
+!\[Spider Scan](screenshots/spider\_scan\_internship.png)
 
